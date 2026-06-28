@@ -32,6 +32,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | [0031-next-permutation](https://github.com/bhagya518/leethcode/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/bhagya518/leethcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/bhagya518/leethcode/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,8 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/bhagya518/leethcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
