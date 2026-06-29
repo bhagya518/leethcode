@@ -32,6 +32,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | [0031-next-permutation](https://github.com/bhagya518/leethcode/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/bhagya518/leethcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bhagya518/leethcode/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagya518/leethcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,8 +60,17 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhagya518/leethcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
