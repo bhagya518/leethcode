@@ -37,6 +37,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | [0287-find-the-duplicate-number](https://github.com/bhagya518/leethcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/bhagya518/leethcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhagya518/leethcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/bhagya518/leethcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/bhagya518/leethcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,8 +89,21 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bhagya518/leethcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/bhagya518/leethcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bhagya518/leethcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/bhagya518/leethcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/bhagya518/leethcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/bhagya518/leethcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
